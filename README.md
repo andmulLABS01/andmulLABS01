@@ -5,7 +5,7 @@
 - 🤔 What do you like to do go to the movies and travel
 - 🎓 What's your educational background BA/MA in Network Technology, Technology Leadership Certificate
 - 💼 Working to move into leadership to direct and change systems.
-- 🌱 Currently working as a project manager / Business Analysis for projects
+- 🌱 Currently working as an Infrastructure Project manager / Business Analysis.  Trying to find ways to save the company money
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
