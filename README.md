@@ -25,9 +25,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&...)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=fla...)
 - 🔧 &nbsp;
-![Visual Studio Code](img.shields.io/badge/-Visual%20Studio%20Code-33...)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-33...)
 - 🖥 &nbsp;
-![diagram.net](img.shields.io/badge/-Diagram.net-333333?style=...)
+![diagram.net](https://img.shields.io/badge/-Diagram.net-333333?style=...)
 
 <br/>
 
