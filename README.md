@@ -2,28 +2,28 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 What do you like to do? Go to the movies, travel, collect intersting items, and puzzles/brain teasers.
+- 🤔 What do you like to do? Go to the movies, travel, collect interesting items, and do puzzles or brain teasers.
 - 🎓 What's your educational background BA/MA in Network Technology, Technology Leadership Certificate
 - 💼 Working to move into leadership to direct and change systems.
-- 🌱 I am currently working as an infrastructure project manager / business analyst.  Trying to find ways to save the company money
+- 🌱 I am currently working as an infrastructure project manager/business analyst.  Trying to find ways to save the company money
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&...)
 - 🌐 &nbsp;
-![HTML5](img.shields.io/badge/-HTML5-333333?style=flat&l...)
-![CSS](img.shields.io/badge/-CSS-333333?style=flat&log...)
-![JavaScript](img.shields.io/badge/-JavaScript-333333?style=f...)
-![Node.js](img.shields.io/badge/-Node.js-333333?style=flat...)
-![React](img.shields.io/badge/-React-333333?style=flat&l...)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&l...)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&log...)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=f...)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat...)
+![React](https://img.shields.io/badge/-React-333333?style=flat&l...)
 - 🛢 &nbsp;
-![MySQL](img.shields.io/badge/-MySQL-333333?style=flat&l...)
-![MongoDB](img.shields.io/badge/-MongoDB-333333?style=flat...)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&l...)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat...)
 - ⚙️ &nbsp;
-![Git](img.shields.io/badge/-Git-333333?style=flat&log...)
-![GitHub](img.shields.io/badge/-GitHub-333333?style=flat&...)
-![Markdown](img.shields.io/badge/-Markdown-333333?style=fla...)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&log...)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&...)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=fla...)
 - 🔧 &nbsp;
 ![Visual Studio Code](img.shields.io/badge/-Visual%20Studio%20Code-33...)
 - 🖥 &nbsp;
@@ -34,9 +34,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="www.kuralabs.org"><img alt="Website" src="img.shields.io/badge/Website-www.kuralabs.org-o..."></a>
-<a href="https://www.linkedin.com/in/andrew-mullen-/"><img alt="LinkedIn" src="img.shields.io/badge/LinkedIn-Andrew%20Mullen..."></a>
-<a href="mullencsllc@gmail.com"><img alt="Email" src="img.shields.io/badge/Email-mullencsllc@gmail.com...."></a>
+<a href="www.kuralabs.org"><img alt="Website" src="https://img.shields.io/badge/Website-www.kuralabs.org-o..."></a>
+<a href="https://www.linkedin.com/in/andrew-mullen-/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Andrew%20Mullen..."></a>
+<a href="mullencsllc@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mullencsllc@gmail.com...."></a>
 </p>
 
 <!---
