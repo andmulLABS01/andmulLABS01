@@ -2,15 +2,15 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 What do you like to do go to the movies and travel
+- 🤔 What do you like to do? Go to the movies, travel, collect intersting items, and puzzles/brain teasers.
 - 🎓 What's your educational background BA/MA in Network Technology, Technology Leadership Certificate
 - 💼 Working to move into leadership to direct and change systems.
-- 🌱 Currently working as an Infrastructure Project manager / Business Analysis.  Trying to find ways to save the company money
+- 🌱 I am currently working as an infrastructure project manager / business analyst.  Trying to find ways to save the company money
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-![Python](img.shields.io/badge/-Python-333333?style=flat&...)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&...)
 - 🌐 &nbsp;
 ![HTML5](img.shields.io/badge/-HTML5-333333?style=flat&l...)
 ![CSS](img.shields.io/badge/-CSS-333333?style=flat&log...)
